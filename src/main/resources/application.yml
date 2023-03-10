@@ -1,0 +1,4 @@
+
+chatgpt:
+  api-key: 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   #your api-key. It can be generated in this link https://beta.openai.com/docs/quickstart/adjust-your-settings
+  max-tokens: 1000
